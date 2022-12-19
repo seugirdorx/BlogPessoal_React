@@ -1,0 +1,29 @@
+
+.imagem2{
+    background-image: url(https://i.pinimg.com/564x/73/8f/68/738f683519b87ac6ceef723ce0771959.jpg);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.textos2{
+    font-weight: bold !important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
+
+.loginAreaa{
+        height: 70vh; width: 30vw;
+        border-radius: 15%;
+        display: flex; justify-content: center; align-items: center; flex-direction: column;
+        background: linear-gradient(0deg, rgba(242,3,69,1) 0%, rgba(255,195,242,1) 100%);
+}
+
+.espaco{
+    width: 20px;
+}
+    

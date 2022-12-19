@@ -1,0 +1,26 @@
+.caixa{
+    background-image: url(https://i.pinimg.com/564x/fa/76/63/fa76635928a58dedc75dcf0c6ea40848.jpg);
+    background-size: cover;
+    min-height: 150vh;
+
+}
+
+.titulo{
+   color:  white !important;
+   font-weight: bold !important;
+}
+
+.botao{
+   border-color: white !important;
+   background: linear-gradient(90deg, #ffc3f2 0%, #f20345 100%) !important;
+    color: white !important; 
+}
+
+.postagens{
+    background-color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+

@@ -1,0 +1,28 @@
+.textos1{
+    color: white;
+    font-weight: bold !important;
+ }
+
+ .textos2{
+    font-weight: bold !important;
+ }
+ 
+ .imagem{
+     background-image: url(https://i.pinimg.com/564x/79/1a/e9/791ae99d4da0fa18383378469f71b38e.jpg);
+     background-repeat: no-repeat;
+     width: 100vh;
+     min-height: 100vh;
+     background-size: cover;
+     background-position: center;
+ }
+ 
+ .text-decorator-none{
+     text-decoration: none;
+ }
+
+ .loginArea {
+    height: 70vh; width: 30vw;
+    border-radius: 15%;
+    display: flex; justify-content: center; align-items: center; flex-direction: column;
+    background: linear-gradient(0deg, rgba(242,3,69,1) 0%, rgba(255,195,242,1) 100%);
+}

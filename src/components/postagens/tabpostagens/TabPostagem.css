@@ -1,0 +1,7 @@
+.titulo{
+    font-weight: bold;
+ }
+
+.background{
+    background: linear-gradient(90deg, rgba(255,195,242,1) 0%, rgba(242,3,69,1) 100%);
+}
